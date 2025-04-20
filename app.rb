@@ -1,8 +1,5 @@
 require "esa"
 require 'date'
-require 'dotenv'
-
-Dotenv.load
 
 class Hash
   def method_missing(m)

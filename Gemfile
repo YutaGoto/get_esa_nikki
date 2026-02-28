@@ -2,4 +2,4 @@
 
 source "https://rubygems.org"
 
-gem "esa", "~> 3.4"
+gem "esa", "~> 3.5"
